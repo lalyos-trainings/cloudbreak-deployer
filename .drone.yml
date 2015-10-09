@@ -2,4 +2,3 @@ image: hypriot/rpi-golang
 script:
     - make deps
     - make build
-    
